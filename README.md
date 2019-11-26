@@ -6,5 +6,4 @@ https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/ass
 
 MOD2 Solution
 
-file:///C:/Users/meeluhn.blanc/Documents/index.html
 
