@@ -1,2 +1,2 @@
 # Coursera-HTML-CSS-and-JS
-We're going to cover HTML5, CSS3, Twitter Bootstrap CSS Framework, which is the most widely used CSS framework today. We'll also cover JavaScript as a programming language of the web and we'll learn how to use Ajax to retrieve data from the server and then dynamically update the content without having to reload the whole page. We'll also learn responsive design, which is how you code a webpage so that it displays properly across all types of devices, mobile and desktop.
+This repository includes folders to my module assignments. Below are the links to my solutions.
